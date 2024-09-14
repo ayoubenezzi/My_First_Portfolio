@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Basic Structure</title>
+  </head>
+  <body>
+    <h1>Primary Heading</h1>
+    <p>
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis sint
+      quisquam porro tenetur, magnam in reprehenderit aperiam
+    </p>
+    <h2>Secondary Heading</h2>
+    <p>
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptates
+      suscipit dolorem eveniet sint non quae eum iusto maiores, fugit cumque
+      maxime assumenda exercitationem.
+    </p>
+    <h3>Tertiary Heading</h3>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, ab
+      laborum? Omnis similique dolores, tempore eius dolore perferendis iusto
+      maiores deleniti ratione sint.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas quis placeat
+      consequatur beatae repellat dolorum sint, nam necessitatibus dolorem
+      aspernatur assumenda maxime iure quaerat sequi.
+    </p>
+    <a href="https://i.ibb.co/gTDZZT8/ALX-Logo-07.png">
+      <img
+        src="https://i.ibb.co/gTDZZT8/ALX-Logo-07.png"
+        alt="Clickable Image"
+      />
+    </a>
+  </body>
+</html>
